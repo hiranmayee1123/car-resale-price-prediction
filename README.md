@@ -1,3 +1,6 @@
 # Car-resale-price-prediction
-This is a machine learning project, which predits the car resale-price by considering the age of the car and other features.
-Random forest regression is used to predict the car resale price prediction in this project.
+In this data science project, I developed a predictive model to estimate the resale price of used cars. Leveraging machine learning algorithms and data analysis techniques, I analyzed a diverse dataset containing information on car make, model, year of manufacture, mileage, condition, geographical location, and market trends. The primary objective was to build a robust model capable of accurately predicting the resale price of a car based on these factors.
+
+Throughout the project, I conducted comprehensive data preprocessing, including data cleaning, handling missing values, and transforming categorical variables into numerical format. Exploratory data analysis (EDA) techniques were employed to gain insights into the relationships between different features and the target variable. I also performed feature engineering to enhance the predictive power of the model, creating new features and transforming existing ones.
+
+For the predictive modeling phase, I experimented with various machine learning algorithms such as linear regression, decision trees, random forests, gradient boosting, and neural networks. I evaluated the performance of each model using appropriate metrics such as mean absolute error (MAE), mean squared error (MSE), and root mean squared error (RMSE). Through rigorous testing and validation, I identified the best-performing model and fine-tuned its hyperparameters to optimize performance.
